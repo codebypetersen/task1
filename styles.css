@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html{
+	
+	}
+	
+body {
+	background: beige;
+	font-family: helvetica;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	
+	}
+
+nav {
+	margin: auto;
+}
+
+nav ul{
+	text-align: center;
+	
+}
+	
+nav li {
+	display: inline;
+	padding-left: 1em;
+	text-transform: uppercase;
+	text-decoration: none; 
+	background: gold;
+}
+	
+nav a {
+	text-decoration: none; 
+	color: black;
+	font-weight: bold;
+	}
+	
+.active {
+	color: red;
+	
+}
